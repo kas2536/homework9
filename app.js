@@ -9,7 +9,7 @@ const projects = [
         title: "Personal Website",
         description: "A personal website with small animations and design. Built with HTML, CSS, and Bootstrap.",
         deadline: new Date("2024-06-01"),
-        imageSrc: "personal-website.jpg",
+        imageSrc: "personal-website.png",
         imageAlt: "Personal Website Welcome Page"
     },
     {
